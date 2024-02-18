@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalid Oukoukjane</h1>
 <h3 align="center">A web designer from Morocco</h3>
 <br>
-![giphy](https://github.com/khalidoukoujane/khalidoukoujane/assets/114773582/96b97b10-435a-4dd3-a099-69b62689a8c8)
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/khalidoukou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalidoukou" height="30" width="40" /></a>
