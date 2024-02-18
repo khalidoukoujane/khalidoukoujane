@@ -1,4 +1,4 @@
-![giphy (2)](https://github.com/khalidoukoujane/khalidoukoujane/assets/114773582/f9631b4c-a549-467f-9b8c-73e05f810a73)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/XqVUeEK5Lt3VOGEzJj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/alltheanimeuk-anime-screen-screenanime-XqVUeEK5Lt3VOGEzJj">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Khalid Oukoukjane</h1>
 <h3 align="center">A web designer from Morocco</h3>
 <h3 align="left">Connect with me:</h3>
