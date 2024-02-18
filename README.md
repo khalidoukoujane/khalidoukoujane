@@ -1,4 +1,4 @@
-
+![giphy (1)](https://github.com/khalidoukoujane/khalidoukoujane/assets/114773582/ba173097-1402-4c0c-9128-ec7cbe936496)
 <h1 align="center">Hi 👋, I'm Khalid Oukoukjane</h1>
 <h3 align="center">A web designer from Morocco</h3>
 <h3 align="left">Connect with me:</h3>
