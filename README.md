@@ -1,6 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-![giphy (3)](https://github.com/khalidoukoujane/khalidoukoujane/assets/114773582/f9f6db31-ec17-4ed1-afbe-36afdf633333)
-</div>
+
 <h1 align="center">Hi 👋, I'm Khalid Oukoukjane</h1>
 <h3 align="center">A web designer from Morocco</h3>
 <h3 align="left">Connect with me:</h3>
