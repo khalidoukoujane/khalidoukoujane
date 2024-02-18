@@ -1,5 +1,5 @@
 
-![Group hh](https://github.com/khalidoukoujane/khalidoukoujane/assets/114773582/89760301-fd20-4661-9272-2dd7292399a3)
+
 <h1 align="center">Hi 👋, I'm Khalid Oukoukjane</h1>
 <h3 align="center">A web designer from Morocco</h3>
 ![giphy (1)](https://github.com/khalidoukoujane/khalidoukoujane/assets/114773582/9925c10b-a6ec-4a5d-a9a5-69743e0b507b)
