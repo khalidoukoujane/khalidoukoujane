@@ -6,15 +6,15 @@
 
 ###
 
-<h5 align="left">My name is Khalid<br><br>   I'm a web Developer, from Morocco<br><br>   ✨ Creating bugs since 2023<br><br>   📚 I'm currently learning C++</h5>
+<h5 align="center">My name is Khalid<br><br>   I'm a web Developer, from Morocco<br><br>   ✨ Creating bugs since 2023<br><br>   📚 I'm currently learning C++</h5>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
