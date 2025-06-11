@@ -1,18 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2poeXhuZnE2c3B3djZ1MnhlMm9kcWU5ejR6ZHRlajl5MXNwaHN4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
-
-###
 
 <h5 align="center">My name is Khalid<br><br>   I'm a web Developer, from Morocco<br><br>   ✨ Creating bugs since 2023<br><br>   📚 I'm currently learning C++</h5>
 
-###
-
 <h2 align="center">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
