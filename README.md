@@ -2,12 +2,21 @@
 
 ###
 
-<img align="left" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NpZWlnODQ1YW9wOHNqNXNiZDFrODlxazg2anhwOHdhYTYyd3l3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gioLPAqDRZjzYpmuCp/giphy.gif" style="margin-right: 20px;"  />
-
-###
-
-<h5 align="left">My name is Khalid<br><br>   I'm a web Developer, from Morocco<br><br>   ✨ Creating bugs since 2023<br><br>   📚 I'm currently learning C++</h5>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NpZWlnODQ1YW9wOHNqNXNiZDFrODlxazg2anhwOHdhYTYyd3l3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gioLPAqDRZjzYpmuCp/giphy.gif" height="300" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h5 align="left">
+        My name is Khalid<br><br>
+        I'm a web Developer, from Morocco<br><br>
+        ✨ Creating bugs since 2023<br><br>
+        📚 I'm currently learning C++
+      </h5>
+    </td>
+  </tr>
+</table>
 ###
 
 <h2 align="left">I code with</h2>
